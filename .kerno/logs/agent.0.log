@@ -1,0 +1,50 @@
+2026-03-24 11:15:21.017 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Scanning files
+2026-03-24 11:15:21.019 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Cache miss for scanning files
+2026-03-24 11:15:21.844 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Files scanned
+2026-03-24 11:15:21.846 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Found 1 module(s)
+2026-03-24 11:15:21.848 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Detected applications: conduit-backend
+2026-03-24 11:15:21.869 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Indexing your project
+2026-03-24 11:15:21.869 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for indexing your project
+2026-03-24 11:15:22.672 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Project indexed
+2026-03-24 11:15:22.674 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Analyzing imports
+2026-03-24 11:15:22.674 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for analyzing imports
+2026-03-24 11:15:26.519 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Files scanned
+2026-03-24 11:15:26.519 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Found 1 module(s)
+2026-03-24 11:15:26.519 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Detected applications: conduit-backend
+2026-03-24 11:15:26.547 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Files scanned
+2026-03-24 11:15:26.548 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Found 1 module(s)
+2026-03-24 11:15:26.548 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c925 - Detected applications: conduit-backend
+2026-03-24 11:15:26.850 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Imports analyzed
+2026-03-24 11:15:26.873 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Analyzing external services
+2026-03-24 11:15:26.873 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for analyzing external services
+2026-03-24 11:15:26.873 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Analyzing security
+2026-03-24 11:15:26.873 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for analyzing security
+2026-03-24 11:15:26.883 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Analyzing build configuration
+2026-03-24 11:15:26.883 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for analyzing build configuration
+2026-03-24 11:15:26.900 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Project indexed
+2026-03-24 11:15:26.910 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Imports analyzed
+2026-03-24 11:15:26.913 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Detecting endpoints
+2026-03-24 11:15:26.913 [DEBUG] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for detecting endpoints
+2026-03-24 11:15:31.735 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - External services analyzed
+2026-03-24 11:15:35.427 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Security analyzed
+2026-03-24 11:15:39.213 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Endpoints detected
+2026-03-24 11:15:39.213 [INFO] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Found 19 endpoint(s)
+2026-03-24 11:15:39.224 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Project indexed
+2026-03-24 11:15:39.233 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Imports analyzed
+2026-03-24 11:15:40.733 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Build configuration analyzed
+2026-03-24 11:15:40.736 [INFO] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Generating Dockerfile
+2026-03-24 11:15:40.736 [DEBUG] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for generating dockerfile
+2026-03-24 11:17:01.224 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Dockerfile generated
+2026-03-24 11:17:01.226 [INFO] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Gathering context
+2026-03-24 11:17:01.226 [DEBUG] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for gathering context
+2026-03-24 11:17:01.232 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Build configuration analyzed
+2026-03-24 11:17:16.950 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Context gathered
+2026-03-24 11:17:16.953 [INFO] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Generating docker-compose.yaml
+2026-03-24 11:17:16.953 [DEBUG] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Cache miss for generating docker-compose.yaml
+2026-03-24 11:17:16.959 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Security analyzed
+2026-03-24 11:17:16.959 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - External services analyzed
+2026-03-24 11:20:23.634 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - docker-compose.yaml generated
+2026-03-24 11:20:23.643 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Dockerfile generated
+2026-03-24 11:20:23.651 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Context gathered
+2026-03-24 11:20:23.660 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - docker-compose.yaml generated
+2026-03-24 11:20:23.701 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Project indexed

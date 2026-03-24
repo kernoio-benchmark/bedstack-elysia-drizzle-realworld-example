@@ -48,3 +48,14 @@
 2026-03-24 11:20:23.651 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Context gathered
 2026-03-24 11:20:23.660 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - docker-compose.yaml generated
 2026-03-24 11:20:23.701 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Project indexed
+2026-03-24 11:20:23.709 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Imports analyzed
+2026-03-24 11:20:23.727 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Build configuration analyzed
+2026-03-24 11:20:23.738 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Dockerfile generated
+2026-03-24 11:20:23.750 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Project indexed
+2026-03-24 11:20:23.759 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Imports analyzed
+2026-03-24 11:20:23.775 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - External services analyzed
+2026-03-24 11:20:23.775 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Security analyzed
+2026-03-24 11:20:23.775 [CHECKMARK] - index - bedstack-elysia-drizzle-realworld-example-97c9ts - Build configuration analyzed
+2026-03-24 11:20:23.785 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Dockerfile generated
+2026-03-24 11:20:23.794 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - Context gathered
+2026-03-24 11:20:23.803 [CHECKMARK] - composeAgent - bedstack-elysia-drizzle-realworld-example-97c9ts - docker-compose.yaml generated
